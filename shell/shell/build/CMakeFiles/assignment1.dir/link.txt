@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/assignment1.dir/src/main.c.o CMakeFiles/assignment1.dir/src/commands.c.o CMakeFiles/assignment1.dir/src/helpers.c.o  -o assignment1 

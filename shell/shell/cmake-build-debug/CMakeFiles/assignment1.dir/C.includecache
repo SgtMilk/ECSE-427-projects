@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alix/Desktop/school/semester_5/ECSE-427/shell/src/helpers.h
+stdbool.h
+-
+
+/home/alix/Desktop/school/semester_5/ECSE-427/shell/src/main.c
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+stdbool.h
+-
+signal.h
+-
+helpers.h
+/home/alix/Desktop/school/semester_5/ECSE-427/shell/src/helpers.h
+
