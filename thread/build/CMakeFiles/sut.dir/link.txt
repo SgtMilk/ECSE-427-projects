@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread CMakeFiles/sut.dir/src/main.c.o CMakeFiles/sut.dir/src/sut.c.o CMakeFiles/sut.dir/src/queue.c.o CMakeFiles/sut.dir/src/helpers.c.o -o sut 
