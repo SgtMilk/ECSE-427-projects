@@ -1,3 +1,0 @@
-/home/alix/Desktop/school/semester_5/ECSE-427/shell/build/CMakeFiles/rebuild_cache.dir
-/home/alix/Desktop/school/semester_5/ECSE-427/shell/build/CMakeFiles/edit_cache.dir
-/home/alix/Desktop/school/semester_5/ECSE-427/shell/build/CMakeFiles/assignment1.dir

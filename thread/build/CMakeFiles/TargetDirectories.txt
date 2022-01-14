@@ -1,3 +1,0 @@
-/home/alix/Desktop/school/semester_5/ECSE-427/thread/build/CMakeFiles/rebuild_cache.dir
-/home/alix/Desktop/school/semester_5/ECSE-427/thread/build/CMakeFiles/edit_cache.dir
-/home/alix/Desktop/school/semester_5/ECSE-427/thread/build/CMakeFiles/sut.dir

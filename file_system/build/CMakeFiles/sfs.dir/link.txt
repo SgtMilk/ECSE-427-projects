@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/sfs.dir/src/sfs_api.c.o CMakeFiles/sfs.dir/src/helpers.c.o CMakeFiles/sfs.dir/src/disk_emu.c.o CMakeFiles/sfs.dir/src/linkedList.c.o CMakeFiles/sfs.dir/testers/sfs_test0.c.o -o sfs 
