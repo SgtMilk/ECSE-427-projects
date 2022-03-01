@@ -1,5 +1,4 @@
-# ECSE-427-projects
-Hi! In the following folders are my assignments in the ECSE-427: Operating Systems class.
+Hi! In the following folders are my assignments in the Operating Systems class.
 
 There were three assignments in this class:
 - a shell program
